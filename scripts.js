@@ -4,7 +4,7 @@ window.onload= ()=>{ //Executes after HTML loads
     //Subscribe button
     let subscribe = document.querySelector("button.btn");
     //Text field for the e-mail
-    let emailText = document.querySelector("input[type=\"email\"]");
+    let emailText = document.querySelector("input[type=email]");
     //Result text
     let result = document.querySelector("div.message");
 
